@@ -1,6 +1,6 @@
 {
-    "name": "Best Dairy Trade",
-    "short_name": "Best Dairy Trade",
+    "name": "skeleton",
+    "short_name": "skeleton",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
